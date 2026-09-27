@@ -54,8 +54,7 @@ It's a **cold, technical, high-altitude** approach to console freedom.
 
 > **"One summit. Every console."**
 
-    </td>
-    <td width="40%">
+    
 
 ### 🔒 Project Rules
 
